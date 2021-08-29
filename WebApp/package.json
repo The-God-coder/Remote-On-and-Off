@@ -1,0 +1,18 @@
+{
+  "name": "RemoteOnandOff",
+  "version": "1.0.0",
+  "description": "Turns On and Off My PC remotly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aniket Kokate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.59.0",
+    "pg": "^8.7.1",
+    "socket.io": "^4.1.3"
+  }
+}

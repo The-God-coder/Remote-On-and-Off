@@ -1,0 +1,4 @@
+./Webapp/node_modules
+./db.env
+./RaspberryPi.fzz
+./testReq.py
