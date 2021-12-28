@@ -1,6 +1,6 @@
 # Remote On and off Using Raspberry Pi and Node
 
-### Here i use a Postgresql Database and Nodejs with python running on my Raspberry Pi Using a relay
+### Here I use a Postgresql Database and Nodejs with python running on my Raspberry Pi Using a relay
 
 #### The Raspberry Pi schematic is as follows In my case I used to 2 pins to turn on and off my pc
 <br>
