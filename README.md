@@ -28,5 +28,6 @@
 <br>
 <br>
 
-### If you Like my work Consider starring and if you have suggestions feel free to make a pull I do check my Repos and who knows Maybe youll get into Master And Dont hesitate to make an issue if you find something wrong i literally made this in a day so most of it wasn't thought out so feel free to leave an issue to help me improve! Also if you Enjoy my work be sure to leave a follow on my page Thanks, [The-God-Coder](https://github.com/The-God-coder)
+### If you Like my work Consider starring or donating and if you have suggestions feel free to make a pull I do check my repos and who knows maybe youll get into master and dont hesitate to make an issue if you find something wrong I literally made this in a day so most of it wasn't thought out so feel free to leave an issue to help me improve! Also if you Enjoy my work be sure to leave a follow on my page Thanks, [The-God-Coder](https://github.com/The-God-coder)
+ # [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/GodCoder)
 
